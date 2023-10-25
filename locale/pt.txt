@@ -1,0 +1,105 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Oftalmologia de Alta Complexidade em Manaus-Am
+
+### Title
+tour.name = Julia Herrera Hospital de Olhos
+
+## Skin
+
+### Button
+Button_983A8C0F_BA54_2EC3_41D8_03DB309CCDF2.label = RECEPÇÃO CIRÚRGICA
+Button_986866E6_BA54_1B45_41E6_93ED0DBD6B5F.label = CENTRO CIRÚRGICO
+Button_98BCF01E_BA54_76C2_41D2_A4CEB56E4107.label = RECEPÇÃO 2
+Button_ACF6C3EC_BA74_1945_41E2_18AFF5EEB953_mobile.label = CENTRO CIRÚRGICO
+Button_AD98EE7D_BA74_2B47_41C2_2DA2D35EA30F_mobile.label = RECEPÇÃO 2
+Button_AF7A21A5_BA74_79C6_41E4_6DE2B8022C52_mobile.label = CONSULTÓRIO
+Button_C245C239_D2C4_16B6_41DE_30825AEB1594.label = FALE CONOSCO
+Button_D34CE739_C84A_D7E7_41C7_2EDB9DE224B6.label = CONSULTÓRIO
+Button_D5694F13_C835_57AB_41E2_CACAB56CF608.label = RECEPÇÃO 3
+Button_D5AD853F_C836_ABDA_41CD_96D4CEEDDE34.label = UNID. DIAGNÓSTICO
+Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = FALE CONOSCO
+Button_DEFBAD03_CBC9_52CD_41DE_24767D066950_mobile.label = RECEPÇÃO CIRÚRGICA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = RECEPÇÃO
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = RECEPÇÃO
+Button_E9D0BCF5_C9CD_DA6F_41A5_A63EDD85A0ED_mobile.label = UNID. DIAGNÓSTICO
+Button_EB6623E6_C9CD_6E6D_41D3_555F6CB8CC68_mobile.label = RECEPÇÃO 3
+
+### Multiline Text
+HTMLText_FDC68ABF_D4DA_60BB_41B2_E7842011A961.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;font-family:'Bebas Neue Bold';"><B>tour virtual</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Bebas Neue Bold';"><B>JULIA HERRERA HOSPITAL DOS OLHOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';">Neste tour virtual além de você descobrir EM ALGUNS CLIQUES NOS ÍCONES INTERATIVOS como chegar até nosso espaço, que está localizado:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"><U>R: SALVADOR, 440, ED. SOBERANE - </U></SPAN><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Bebas Neue Bold';"><B><U>torre corporate, 11° andar.</U></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B><U> </U></B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B>VOCê TAMBÉM PODERÁ CONHECER INTEGRALMENTE CADA ESPAÇO DE NOSSO HOSPITAL </B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><U>SEGUINDO EM FRENTE CLICANDO NOS LINKS INTERATIVOS</U></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B>, E CASO TENHA DÚVIDAS a qualquer momento durante o tour, Só CLICAR NO BOTãO </B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B><U>FALE CONOSCO</U></B></SPAN><SPAN STYLE="font-size:18px;font-family:'Bebas Neue Bold';"><B> QUE irá acessar os NOSSOS CONTATOS. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;font-family:'Bebas Neue Bold';"><B>ATENCIOSAMENTE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_FDC68ABF_D4DA_60BB_41B2_E7842011A961_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Bebas Neue Bold';"><B>tour virtual</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;font-family:'Bebas Neue Bold';"><B>JULIA HERRERA HOSPITAL DOS OLHOS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';">Neste tour virtual além de você descobrir EM ALGUNS CLIQUES NOS ÍCONES INTERATIVOS como chegar até nosso espaço, que está localizado:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Bebas Neue Bold';"> </SPAN><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Bebas Neue Bold';"><U>R: SALVADOR, 440, ED. SOBERANE </U></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Bebas Neue Bold';"><B><U>torre corporate, 11° andar.</U></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B><U> </U></B></SPAN><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B>VOCê TAMBÉM PODERÁ CONHECER INTEGRALMENTE CADA ESPAÇO DE NOSSO HOSPITAL </B></SPAN><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><U>SEGUINDO EM FRENTE CLICANDO NOS LINKS INTERATIVOS</U></SPAN><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B>, E CASO TENHA DÚVIDAS a qualquer momento durante o tour, basta CLICAR NO BOTãO </B></SPAN><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B><U>FALE CONOSCO</U></B></SPAN><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B> QUE irá acessar NOSSos CONTATOS. </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Bebas Neue Bold';"><B>ATENCIOSAMENTE.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Media
+
+### Title
+panorama_2EC6BC0B_3A98_2062_41BE_323DA91003A1.label = IMG_20231007_121421_00_merged
+panorama_4F71944E_43BE_EABB_41C7_DBA69855608E.label = CC_2
+panorama_5156EC74_43A5_BB6E_41B7_8FC7DCE0EE98.label = CC_3
+panorama_A0AB285D_BBDC_1746_41E4_8D6F23EABAED.label = IMG_20230916_120459_00_merged
+panorama_AC9D1689_BA74_7BCE_41DC_702685A0AE84.label = IMG_20230916_113751_00_merged
+panorama_AD89CFBB_BBD5_E9C3_41DC_4C93652B8B11.label = IMG_20230916_120854_00_merged
+panorama_AD8E515E_BBD4_7945_41E4_59EA8479BDE0.label = IMG_20230916_121455_00_merged
+panorama_ADB302FC_BBD4_3B46_41D0_020B9EAA0598.label = IMG_20230916_123601_00_merged
+panorama_ADB4256C_BBD4_F945_41B2_61FCAE00FAFA.label = IMG_20230916_123704_00_merged
+panorama_ADB9F6C2_BBD4_3B42_41E4_06DF1628577D.label = IMG_20230916_123749_00_merged
+panorama_AF0C1221_BA7C_3AFF_41E6_118986E5BE88.label = IMG_20230916_114357_00_merged
+panorama_AF0D18CF_BA7C_7743_41E4_817F1B403951.label = IMG_20230916_113535_00_merged
+panorama_AF0D1AFC_BA7C_2B46_41E6_50DE3E9DC778.label = IMG_20230916_113446_00_merged
+panorama_AF0DE0F1_BA7C_775F_41E4_4B3D91D0B59D.label = IMG_20230916_114308_00_merged
+panorama_AF0DF2FB_BA7C_3B43_41E3_DA2D8DFA8094.label = IMG_20230916_114226_00_merged
+panorama_C2C8796E_D3A9_A1DD_41E8_34209C55F2C9.label = IMG_20230926_162018_00_merged
+panorama_C52A6D35_D3EA_614C_41D7_A3BBB52B39F1.label = CC_1
+panorama_D204F586_C02A_7502_41DD_9446C6B794A8.label = IMG_20230916_122239_00_merged
+panorama_D20525F4_C02E_1506_41C3_2955B8969582.label = IMG_20230916_125235_00_merged
+panorama_D2053443_C02E_2B02_41D0_082A869475D8.label = IMG_20230916_130807_00_merged
+panorama_D2055536_C02E_1503_41D9_F9155788F83C.label = IMG_20230916_125303_00_merged
+panorama_D23AA6C4_C02E_1707_4193_9851EB88574D.label = IMG_20230916_125116_00_merged
+panorama_D23B0A49_C02E_1F0E_419F_F938EC712EBE.label = IMG_20230916_123911_00_merged
+panorama_D23B1580_C02E_15FF_41CD_9EC5689FBE69.label = IMG_20230916_124405_00_merged
+panorama_D23B16FA_C02E_1703_41D8_50AED453CFA3.label = IMG_20230916_124148_00_merged
+panorama_D23B25A1_C02E_153E_41E6_F86CD1687F36.label = IMG_20230916_124917_00_merged
+panorama_D23B7587_C02E_1501_41C0_07571254FA7D.label = IMG_20230916_124721_00_merged
+panorama_D23BD8E3_C02E_1B01_41D6_828E68C0A17B.label = IMG_20230916_123939_00_merged
+panorama_D23C017B_C02A_6D01_41D0_44B33B47B690.label = IMG_20230916_123024_00_merged
+panorama_D23C4321_C02A_ED01_41B0_DA030E645C57.label = IMG_20230916_122653_00_merged
+panorama_D23C60AF_C02A_2B02_41D9_677415375A70.label = IMG_20230916_123352_00_merged
+panorama_D23CC24C_C02A_2F06_41D3_F0556C58A4F2.label = IMG_20230916_122911_00_merged
+panorama_D42FE58F_C02A_3501_41C9_AEBB4F899B12.label = IMG_20230916_122115_00_merged
+panorama_DB97E55D_C8DB_AA5F_41D4_E5B29C44549E.label = IMG_20230916_115348_00_merged
+photo_A56B0819_BBCC_16CE_41E1_896E39A6CAB6.label = IMG_0566
+
+## Popup
+
+### Body
+htmlText_A5E88CB7_BBD4_6FC3_41E0_F42D26539238.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Construído sobre bases firmes há mais de 30 anos, o <B>Julia Herrera Hospital de Olhos</B> é especializado em oftalmologia de média e alta complexidade, contando com uma equipe atualizada e equipamentos modernos.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Em todo o Brasil, fazemos parte de um grupo seleto de 20 hospitais oftalmológicos que possuem a certificação <B>ONA Nível 3</B>, evidenciando a qualidade e segurança dos serviços oferecidos e os resultados de <B>EXCELÊNCIA</B>.</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Na vanguarda da região Norte, somos pioneiros em oferecer padrões elevados de qualidade em serviços oftalmológicos, levando a Excelência oftalmológica a um novo patamar para VOCÊ!</SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Especialistas com mais de 30 mil cirurgias no currículo</B>, realizam procedimentos cirúrgicos de alta complexidade, sempre levando credibilidade e segurança a cada paciente, fazendo uso de equipamentos modernos e claro, contando com sua grande habilidade e experiência.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_E763E375_F563_D892_41D4_5238F0CE3294.title = SOMOS EXCELÊNCIA
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C78FCF3C_C8CE_B7DE_41CC_E6F4BE022858.toolTip = ELEVADOR PARA 11° ANDAR 
+HotspotPanoramaOverlayArea_D07714FC_C857_6A5D_41AE_3130A3987484.toolTip = CONHCER DAY CLINIC
+HotspotPanoramaOverlayArea_D89F92C9_C8D6_AEA7_41E6_65609637F743.toolTip = VER MAIS PRÓXIMO
+HotspotPanoramaOverlayArea_D8D567EA_C8D5_7665_41E2_4A13EBD267BF.toolTip = VOLTAR AO TOUR
+HotspotPanoramaOverlayArea_DA18E320_C8D6_AFE7_4194_0CD5901E0592.toolTip = VER DE PERTO
+HotspotPanoramaOverlayArea_FC05252C_D4A6_A15C_41E3_268A65C60245.toolTip = ENTRAR
+
+## Action
+
+### URL
+LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = https://juliaherrera.com.br/bio-modelo/
+LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = https://juliaherrera.com.br/bio-modelo/
+LinkBehaviour_C445A7F9_D3E6_E0C4_4195_077686991A9D.source = https://www.youtube.com/channel/UCcNIPHCKmKFCxt3i4Aae-6g
+LinkBehaviour_C458A434_D3FE_674D_41D8_257DD3683DAC.source = https://wa.link/7vbwxm
+LinkBehaviour_C4912B85_D3FB_A14F_418A_1408F53B5EA5.source = https://wa.link/7vbwxm
+LinkBehaviour_C4B45E91_D3F9_A347_41D4_A08CE5778C30.source = https://www.youtube.com/channel/UCcNIPHCKmKFCxt3i4Aae-6g
+LinkBehaviour_C59C272D_D3FA_E15C_41A2_39C6B073B060.source = https://maps.app.goo.gl/8sfDSwsVRmkYHxXZ8
+LinkBehaviour_C5C384BF_D3FA_60BA_4197_8259E4A3CA63.source = https://www.instagram.com/juliaherreraho/
+LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
+LinkBehaviour_DC894F3C_D386_A0E0_41B6_E9210C573574.source = https://maps.app.goo.gl/ve7EYdmFXH257psDA
+LinkBehaviour_DDEEB30F_D386_E0A0_41E4_558A4E8055C9.source = https://www.instagram.com/juliaherreraho/
