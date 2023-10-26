@@ -1,9 +1,9 @@
 {
- "name": "Julia Herrera Hospital de Olhos",
- "background_color": "#FFFFFF",
- "description": "Oftalmologia de Alta Complexidade em Manaus-Am",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
+ "name": "Julia Herrera Hospital de Olhos",
+ "start_url": "index.htm",
+ "description": "Oftalmologia de Alta Complexidade em Manaus-Am",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
